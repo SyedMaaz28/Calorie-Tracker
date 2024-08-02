@@ -1,4 +1,4 @@
-# Calorie Tracker using GenAI with Gemini Models
+# Calorie Tracker using GenAI with Gemini Models 🥗🍴
 
 # Overview
 
