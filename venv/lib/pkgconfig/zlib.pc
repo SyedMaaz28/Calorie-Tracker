@@ -1,0 +1,13 @@
+prefix=/Users/syedmaaz/MAIN/STUDY/GEN AI/CaloriesAdvisor/venv
+exec_prefix=/Users/syedmaaz/MAIN/STUDY/GEN AI/CaloriesAdvisor/venv
+libdir=/Users/syedmaaz/MAIN/STUDY/GEN AI/CaloriesAdvisor/venv/lib
+sharedlibdir=/Users/syedmaaz/MAIN/STUDY/GEN AI/CaloriesAdvisor/venv/lib
+includedir=/Users/syedmaaz/MAIN/STUDY/GEN AI/CaloriesAdvisor/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
